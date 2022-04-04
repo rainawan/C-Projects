@@ -1,6 +1,7 @@
 /*
 *   Raina Wan
-*   Quadratic Formula Calculator
+*   Purpose: Quadratic Formula Calculator
+*   Objectives: Demonstrate my understanding of nested loops, arithmetic, and algorithms.
 */
 
 #include <iostream>
