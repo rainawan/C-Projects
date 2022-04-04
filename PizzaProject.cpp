@@ -2,7 +2,7 @@
 *   Raina Wan
 *   Purpose: Order a pizza!
 *   Objectives: Demonstrate my understanding of programmer-defined functions, 
-*               switch statements, loops, simple flow of control, and different data types
+*               switch statements, loops, simple flow of control, and different data types.
 */
 
 #include <iostream>
