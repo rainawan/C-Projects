@@ -1,8 +1,8 @@
 /*
 *	Raina Wan
-*	Purpose: Calculate the highest, lowest, average, and median sneaker prices
+*	Purpose: Calculate the highest, lowest, average, and median sneaker prices.
 *	Objective: Demonstrate my understanding of call-by-value and call-by-reference
-*			   functions, traversing and sorting through an array, and nested loops.
+*		   functions, traversing and sorting through an array, and nested loops.
 */
 
 #include <iostream>
